@@ -270,7 +270,7 @@ footer p{
     }
     main {
         grid-template-columns: 1fr;
-        grid-template-rows: 1fr 1fr;
+        grid-template-rows:1fr;
         grid-auto-flow: row;
         height:fit-content;
     }
