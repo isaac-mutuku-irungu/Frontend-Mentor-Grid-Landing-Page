@@ -249,7 +249,7 @@ footer p{
     font-size: var(--fs-secondary);
 }
 
-@media (max-width:376px) {
+@media (max-width:450px) {
 
     div.navigationMenu{
         height:74.6vh;
